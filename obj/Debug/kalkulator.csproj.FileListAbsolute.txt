@@ -1,0 +1,10 @@
+E:\Faathir\KELAS XII\ukk\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+E:\Faathir\KELAS XII\ukk\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+E:\Faathir\KELAS XII\ukk\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+E:\Faathir\KELAS XII\ukk\kalkulator\kalkulator\obj\Debug\kalkulator.csprojAssemblyReference.cache
+E:\Faathir\KELAS XII\ukk\kalkulator\kalkulator\obj\Debug\kalkulator.Form1.resources
+E:\Faathir\KELAS XII\ukk\kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+E:\Faathir\KELAS XII\ukk\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.cache
+E:\Faathir\KELAS XII\ukk\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+E:\Faathir\KELAS XII\ukk\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+E:\Faathir\KELAS XII\ukk\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
